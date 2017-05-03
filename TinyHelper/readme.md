@@ -1,0 +1,3 @@
+The ATTiny is there to make life easyer...
+
+Read more about this project at https://willem.aandewiel.nl/index.php/beehave/
